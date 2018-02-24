@@ -1,4 +1,3 @@
-'use strict'
 import { v4 } from 'uuid'
 import moment from 'moment'
 import {
