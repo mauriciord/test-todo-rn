@@ -4,6 +4,7 @@
   "scripts": {
     "test": "jest"
   },
+  "main": "main.js",
   "dependencies": {
     "expo": "^25.0.0",
     "lodash": "^4.17.5",
