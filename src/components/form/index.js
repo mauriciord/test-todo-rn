@@ -1,7 +1,7 @@
 'use strict'
 
 import React, { Component } from 'react'
-import styled from 'styled-components/native'
+import styled from 'styled-components'
 import { TextInput } from 'react-native'
 import { connect } from 'react-redux'
 import {

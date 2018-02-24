@@ -6,7 +6,7 @@ import {
   Text,
   View
 } from 'react-native';
-import styled from 'styled-components/native';
+import styled from 'styled-components';
 import Form from './src/components/form';
 import Sorter from './src/components/sorter';
 import Filter from './src/components/filter';
